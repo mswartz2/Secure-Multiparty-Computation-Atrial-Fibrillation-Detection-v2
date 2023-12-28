@@ -1,0 +1,1 @@
+# decentralized model with SMC

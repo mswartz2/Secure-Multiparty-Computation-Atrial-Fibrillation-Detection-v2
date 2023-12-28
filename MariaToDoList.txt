@@ -1,0 +1,33 @@
+To do list
+
+General Python:
+- Add logger to everthing
+- Refactor graphing
+- Add something to reject record if it is too noisy
+- Shuffle data and save data folds
+- Train 10 models and save as pickle files
+- Add comments to everything
+- Set up params
+
+
+GNS3 Prep:
+- Get TCP communication working
+- Get HTTP communication working
+- Set up scipts with params for different experiments
+
+GNS3:
+- Get files loaded in to docker container
+- Set up basic environment with clients, server, orchestrator
+- Run experiments
+    - With original train/test data
+        - Preprocessing & feature extraction at client
+        - Preprocessing & feature extraction at server
+    - With 10 different folds for train/test data
+        - Preprocessing & feature extraction at client
+        - Preprocessing & feature extraction at server
+
+
+Possibly Later:
+- Different noise reduction techniques
+- Improve feature extraction
+
